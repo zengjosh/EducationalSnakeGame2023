@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SnakeWorld
+comment1.params=
+comment1.target=SnakeWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ refreshFood()
+numComments=4
